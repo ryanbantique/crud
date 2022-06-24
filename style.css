@@ -6,6 +6,7 @@ table{
     margin: 40px auto;
     background: rgb(151, 173, 179);
     font-weight: 600;
+    font-family: Arial;
 }
 table.list{
     text-align: center;
